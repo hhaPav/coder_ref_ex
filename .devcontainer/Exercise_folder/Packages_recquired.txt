@@ -1,0 +1,7 @@
+Packages needed to run the script
+
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+pgeocode

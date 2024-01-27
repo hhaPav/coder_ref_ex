@@ -1,0 +1,11 @@
+{
+    "Paths": {
+        "orig_url": "https://drive.google.com/file/d/14a0l9bT9DLFqIu5rtyiTc9hLC555rvOz/view?usp=sharing",
+        "data_path": "https://drive.google.com/uc?export=download&id="
+    },
+    "Columns": {
+        "drop1" : "duplicate", 
+        "drop2" : "Currency cut", 
+        "drop3" : "a mark"
+    }
+}
